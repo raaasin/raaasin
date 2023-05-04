@@ -1,4 +1,4 @@
-- 👋 Hey peeps I'm @raaasin... people call me Nisar, I'm a CSE (Artificial Intelligence & Data Science) 21~25' student at Vignan's Institute of Information Technology.
+- 👋 Hey peeps I'm Nisar, I'm a CSE (Artificial Intelligence & Data Science) 21~25' student at Vignan's Institute of Information Technology.
 - 👀 I’m interested in working as Machine Learning / Data Science / Data analysis Intern.
 - 🌱 I’m currently learning on how to make cool AI projects that ease my tasks.
 - 💞️ I’m looking to collaborate on any projects that are related to AI.
