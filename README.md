@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧍‍♂️ About Me:
 Artificial Intelligence & Data Science 21~25' student at Vignan's Institute of Information Technology<br>Interested in working as Machine Learning / Data Science / Data analysis Intern<br>Currently making cool AI projects that ease my tasks
 
 
