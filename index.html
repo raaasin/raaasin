@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nisar - Portfolio</title>
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <style>
+    body {
+      background-color: #191414; /* Spotify background color */
+      color: #FFFFFF; /* Spotify text color */
+    }
+
+    .playlist-container {
+      margin-top: 20px;
+    }
+
+    .playlist-card {
+      background-color: #1DB954; /* Spotify green color */
+      color: #FFFFFF;
+      text-decoration: none;
+    }
+
+    .playlist-card:hover {
+      background-color: #25c061; /* Spotify green color (hover state) */
+    }
+
+    .playlist-card img {
+      width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1 class="mt-4 mb-4">Mohammed Nisar Ahmed</h1>
+
+    <!-- Playlist 1 -->
+    <div class="row playlist-container">
+      <div class="col-md-4">
+        <a href="views/playlist1.html" class="card playlist-card">
+          <img src="playlist1_image.jpg" alt="Playlist 1 Image">
+          <div class="card-body">
+            <h5 class="card-title">Certifications</h5>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <!-- Playlist 2 -->
+    <div class="row playlist-container">
+      <div class="col-md-4">
+        <a href="views/playlist2.html" class="card playlist-card">
+          <img src="playlist2_image.jpg" alt="Playlist 2 Image">
+          <div class="card-body">
+            <h5 class="card-title">Skills</h5>
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <!-- Add more playlists as needed -->
+
+  </div>
+
+  <!-- Bootstrap JS and Popper.js (required for Bootstrap) -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+
+</body>
+</html>
