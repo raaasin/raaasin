@@ -4,7 +4,7 @@ Certified Data Scientist, Data Analyst, AI & Data Science undergraduate @ VIIT, 
 - Bootstrap, React, Flask, Node
 - Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Tensorflow, OpenCV, Selenium,
 - Supabase, Firebase, SQL, MongoDB
-- Git, Docker, Azure
+- AWS, Azure, Docker
 
 [LinkedIn](https://www.linkedin.com/in/raaasin/)
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=raaasin&label=Profile%20views&color=0e75b6&style=flat" alt="raaasin" /> </p>
