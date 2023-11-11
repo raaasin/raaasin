@@ -6,5 +6,7 @@ Certified Data Scientist, Data Analyst, AI & Data Science undergraduate @ VIIT, 
 - Supabase, Firebase, SQL, MongoDB
 - Git, Docker, Azure
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raaasin&label=Profile%20views&color=0e75b6&style=flat" alt="raaasin" /> </p>
 [LinkedIn](https://www.linkedin.com/in/raaasin/)
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=raaasin&label=Profile%20views&color=0e75b6&style=flat" alt="raaasin" /> </p>
+
+
