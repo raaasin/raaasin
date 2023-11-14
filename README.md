@@ -7,6 +7,6 @@ Certified Data Scientist, Data Analyst, AI & Data Science undergraduate @ VIIT, 
 - AWS, Azure, Docker
 
 [LinkedIn](https://www.linkedin.com/in/raaasin/)
-<p align="left">  <img src="https://komarev.com/ghpvc/?username=raaasin&label=Profile%20views&color=0e75b6&style=flat" alt="raaasin" /> </p>
+<p align="left">  <img src="https://komarev.com/ghpvc/?username=raaasin&label=Visitors&color=0e75b6&style=flat" alt="raaasin" /> </p>
 
 
