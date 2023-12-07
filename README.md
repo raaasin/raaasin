@@ -3,7 +3,7 @@ Certified Data Scientist, Data Analyst, AI & Data Science Undergraduate @ VIIT, 
 - Python, JavaScript, C++, PHP, Go
 - Bootstrap, React, Flask, Node
 - Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Selenium, BeautifulSoup
-- Supabase, Firebase, SQL, MongoDB
+- MongoDB, Supabase, Firebase, SQL
 - AWS, Azure, GCP, Docker
 
 [LinkedIn](https://www.linkedin.com/in/raaasin/)
