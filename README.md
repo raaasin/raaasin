@@ -2,7 +2,7 @@ Certified Data Scientist, Data Analyst, AI & Data Science Undergraduate @ VIIT, 
 
 - Python, JavaScript, C++, PHP, Go
 - Bootstrap, React, Flask, Node
-- Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn, Selenium, BeautifulSoup
+- Selenium, Scikit-learn, TensorFlow
 - MongoDB, Supabase, Firebase, SQL
 - AWS, Azure, GCP, DevOps
 
