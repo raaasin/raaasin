@@ -1,7 +1,7 @@
 Certified Data Scientist, Data Analyst, AI & Data Science Undergraduate @ VIIT, Vizag. Experienced with Machine Learning, Bot development, Web scraping, API development, Data Analysis, Data Science. 
 
 - Python, JavaScript, C++, PHP, Go
-- Bootstrap, React, Flask, Node
+- Flask, Django, Node , React
 - Selenium, Scikit-learn, TensorFlow
 - MongoDB, Supabase, Firebase, SQL
 - AWS, Azure, GCP, DevOps
