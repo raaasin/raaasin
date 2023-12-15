@@ -1,4 +1,4 @@
-Data Scientist, Data Analyst, AI & Data Science Undergraduate @ VIIT, Vizag. Experienced with Machine Learning, Bot development, Web scraping, API development, Data Analysis, Data Science. 
+Data Scientist, Data Analyst, AI & Data Science Undergraduate @ VIIT, Vizag. Experienced with Machine Learning, Bot development, Web scraping & API development.
 
 - Python, JavaScript, C++, PHP, Go
 - Flask, Django, Node, React
