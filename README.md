@@ -9,7 +9,7 @@ I have a robust foundation in programming and web technologies, with skills in:
 - Data Science Tools: Scikit-learn, TensorFlow, PyTorch
 - Databases: MongoDB, Supabase, Firebase, SQL
 - Cloud & DevOps: AWS, Azure, GCP, DevOps
-- 
+  
 [LinkedIn](https://www.linkedin.com/in/raaasin/)
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=raaasin&label=Visitors&color=0e75b6&style=flat" alt="raaasin" /> </p>
 
